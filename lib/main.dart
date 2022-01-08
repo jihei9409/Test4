@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
       return MaterialApp(
-        title: 'Startup Name Generator',
+        title: 'Startup Name Generator !!!!!',
         theme: ThemeData(          // Add the 5 lines from here...
           appBarTheme: const AppBarTheme(
             backgroundColor: Colors.white,
@@ -47,7 +47,7 @@ class _RandomWordsState extends State<RandomWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Startup Name Generator'),
+        title: const Text('Startup Name Generator !!!'),
 
         actions: [
           IconButton(
